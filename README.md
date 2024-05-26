@@ -1,4 +1,4 @@
-# Potentiometer-Using-LED
+# LED-Using-Potentiometer
 A program that controls and LED using a potentiometer. 
 
 This program was made using the tutorial provided in the FreeNove Starter Set.
